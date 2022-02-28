@@ -1,0 +1,564 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Perfect table of three hundred fourty and three victories obtained since the kings attempt to enter into Hull at the begining of these vvars, July 26. 1642. to Septemb. 14. 1646 by their Excellencies the Earl of Essex and Sir Thomas Fairfax, Captains Generals of the Parliaments forces.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90495</idno>
+            <idno type="STC">Wing P1526</idno>
+            <idno type="STC">ESTC R181673</idno>
+            <idno type="EEBO-CITATION">45504500</idno>
+            <idno type="OCLC">ocm 45504500</idno>
+            <idno type="VID">171816</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90495)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171816)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2593:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Perfect table of three hundred fourty and three victories obtained since the kings attempt to enter into Hull at the begining of these vvars, July 26. 1642. to Septemb. 14. 1646 by their Excellencies the Earl of Essex and Sir Thomas Fairfax, Captains Generals of the Parliaments forces.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ports.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Ley,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Bodleian Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Essex, Robert Devereux, --  Earl of, 1591-1646.</term>
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1657-1710.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:171816:1"/>
+            <head>A Perfect Table of Three hundred fourty and three Victories obtained ſince the Kings attempt to enter into <hi>Hull</hi> at the begining of theſe VVars, <hi>July</hi> 26. 1642. to <hi>Septemb.</hi> 14. 1646. by their Excellencies the Earl of <hi>Eſſex,</hi> and Sir <hi>Thomas Fairfax,</hi> Captains Generals of the Parliaments Forces.</head>
+            <p>
+               <figure>
+                  <p>Robert Earle of Eſsex, his Excellence, Generall of y<hi rend="sup">e</hi> Army, Imployed for the defence of the Protestant Religion, the ſafety of his Ma<hi rend="sup">ties</hi> Perſon, and of the Parliament, the preſervation of the Lawes, Liberties.</p>
+               </figure>
+               <figure>
+                  <p>The Effigies of the most Excellent &amp; truly valliant S<hi rend="sup">r</hi> Thomas Fairfax Cap<hi rend="sup">tin</hi>: Generall of the Armies raiſed for the preſervation of Religion, defence of King Parlia<hi rend="sup">mt</hi>: &amp; Kingdome</p>
+                  <p>Printed <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </p>
+               </figure>
+               <figure>
+                  <p>
+                     <hi>Alex. Leſly,</hi> General of <hi>Edw.</hi> Earl of <hi>Mancheſter,</hi> Earl of <hi>Denbigh,</hi> Gen. of Sir <hi>William Brereton,</hi> Sir <hi>W. VValler</hi> Gen. of <hi>Oliver Cromwel</hi> 
+                     <abbr>Eſq</abbr> 
+                     <hi>Philip Skippon</hi> 
+                     <abbr>Eſq</abbr> Maj. <hi>Edw. Maſſey</hi> 
+                     <abbr>Eſq</abbr> Maj. the Scotch Army. Major General, &amp;c. the Staffordſhire Forces. Major General, &amp;c. Surry, Suſſex, Hampſh. Lieu. Gen. of the horſe. Gen. of the Army. Gen. of the Weſt Coun.</p>
+               </figure>
+            </p>
+            <list>
+               <head>By His Excellency the Earl of <hi>Eſſex,</hi> Captain Ge<g ref="char:EOLhyphen"/>neral of all the Parliaments FORCES.</head>
+               <item>1. <seg rend="decorInit">H</seg>Is Majeſty being kept out of Hull, and ſet up His Standard at Nottingham, was Routed before Coven<g ref="char:EOLhyphen"/>try upon a Sally, Iuly 26. 1642.</item>
+               <item>2. The Lord <hi>Brooks</hi> again Routed them at Southam, and took 40. Pri<g ref="char:EOLhyphen"/>ſoners, 100. arms.</item>
+               <item>3. In Auguſt were ſurrendred the Iſland of Portſey, with 200. Arms.</item>
+               <item>4. The Caſtle of Portſmouth to ſir <hi>W. Waller.</hi>
+               </item>
+               <item>5. Southſay Caſtle taken with an Onſlaught, the men Priſoners, their Arms and Ammu<g ref="char:EOLhyphen"/>nition all taken.</item>
+               <item>6. In September the Lord General the Earl of Eſſex Routed His Majeſties Forces.</item>
+               <item>7. The Lord <hi>Strange</hi> was raiſed from the ſiege by a Sally out of Mancheſter.</item>
+               <item>8. In October was fought a great Battel at Edge-hill, the Kings General the Earl of <hi>Lindſey,</hi> the Lord <hi>Aubeny,</hi> Sir <hi>Edward Ver<g ref="char:EOLhyphen"/>ney,</hi> and manyſlain: The L. <hi>Willoughby,</hi> three Colonels, &amp; many hundreds taken priſoners.</item>
+               <item>9. Cawood Caſtle taken by the Lord <hi>Fair<g ref="char:EOLhyphen"/>fax,</hi> with all the Ammunition, and all Pri<g ref="char:EOLunhyphen"/>ſoners at mercy.</item>
+               <item>10. Sir <hi>William Waller</hi> took Madbury.</item>
+               <item>11. In November Sir <hi>William Waller</hi> beat the Enemy in Hampſhire.</item>
+               <item>12. Sir <hi>William Waller</hi> took Farnham Caſtle.</item>
+               <item>13. In December ſir <hi>W. Waller</hi> took Winche<g ref="char:EOLhyphen"/>ſter, the Lord <hi>Grandeſon,</hi> and 60. great Offi<g ref="char:EOLhyphen"/>cers, 1000. Horſe and Foot, and 600. Arms.</item>
+               <item>14. The Lord <hi>Fairfax</hi> Routed the Earl of <hi>Newcaſtle</hi> neer Tadcaſter.</item>
+               <item>15. Sir <hi>William Waller</hi> took Arundel Caſtle.</item>
+               <item>16. Sir <hi>W. Waller</hi> took the city of Chicheſter.</item>
+               <item>17. In Ianuary the Lord <hi>Fairfax</hi> Routed the Earl of <hi>Newcaſtle</hi> again neer Bradford.</item>
+               <item>18. Again, the Lord <hi>Fairfax</hi> Routed the Earl of <hi>Newcaſtle</hi> neer Leeds.</item>
+               <item>19. Leeds taken by the Lord <hi>Fairfax.</hi>
+               </item>
+               <item>20. His Excellency Routed the Kings Forces neer Henly, and took 200. Priſoners.</item>
+               <item>21. Sir <hi>W. Brereton</hi> routed ſir <hi>T. Aſton</hi> by Nam<g ref="char:EOLhyphen"/>ptwich, took 100. Priſoners Horſe and Foot.</item>
+               <item>22. Namptwich taken by ſir <hi>W. Brereton.</hi>
+               </item>
+               <item>23. In February Sir <hi>John Seaton</hi> in Lanca<g ref="char:EOLhyphen"/>ſhire took Preſton.</item>
+               <item>24. Sir <hi>John Seaton</hi> took Lancaſter Town.</item>
+               <item>25. Sir <hi>John Seaton</hi> took the Caſtle.</item>
+               <item>26. The Weſtern Forces Routed the Corniſh neer Madbury, took five piece of Ordnance, 10. Officers, 100. Priſoners, and 200. Arms.</item>
+               <item>27. Sir <hi>Tb. Aſton</hi> again routed by ſir <hi>W. Brere<g ref="char:EOLhyphen"/>ton</hi> at Middlewich.</item>
+               <item>28. March ſir <hi>W. Brereton</hi> took Lichfield cloſe.</item>
+               <item>29. Sir <hi>William Brereton</hi> Routed the Kings Army neer Stafford, the Earl of <hi>Northampton</hi> and many more ſlain.</item>
+               <item>30. Laſtol alſo taken.</item>
+               <item>31. Sir <hi>W. Waller</hi> took Malmsbury by ſtorm.</item>
+               <item>32. In April, 1643. Col: <hi>Maſſey</hi> Routed the Welch in the Forreſt of Dean.</item>
+               <item>33. Col: <hi>Maſſey</hi> took Tewksbury.</item>
+               <item>34. Wiggon taken by Sir <hi>John Seaton.</hi>
+               </item>
+               <item>35. Sir <hi>William Waller</hi> took three Troops of Prince <hi>Maurice</hi>'s Horſe.</item>
+               <item>36. Sir <hi>W. Waller</hi> took Monmouth in Wales.</item>
+               <item>37. Sir <hi>W. Waller</hi> took Higman, and in it 150. Officers and Gentlemen, 1000. Priſoners.</item>
+               <item>38. Sir <hi>William Waller</hi> took Rosbridge.</item>
+               <item>39. Sir <hi>William Waller</hi> took Chepſtow.</item>
+               <item>40. And Hereford taken by ſtorm by Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Waller,</hi> and in it 40 Knights and Offi<g ref="char:EOLhyphen"/>cers in Commiſſion, and 600. Priſoners.</item>
+               <item>41. Sherburn caſtle, taken by ſir <hi>W. Waller.</hi>
+               </item>
+               <item>42. Hemſter taken by Sir <hi>William Waller.</hi>
+               </item>
+               <item>43. Redding taken by His Excellency.</item>
+               <item>44. The Lancaſhire men took Whaley.</item>
+               <item>45. The Lincolnſhire men took Crowland.</item>
+               <item>46. In May Sir <hi>VV. Breretons</hi> own Troop re<g ref="char:EOLhyphen"/>ſcued threehundred priſoners, and forced the Earl of Darby to retreat at Stocton heath.</item>
+               <item>47. The Lord <hi>Fairfax</hi> took Wakefield.</item>
+               <item>48. The Lancaſhire men took Warrington.</item>
+               <item>49. Sir <hi>William Waller</hi> Routed the Kings For<g ref="char:EOLhyphen"/>ces neer Wells.</item>
+               <item>50. In Iune ſir <hi>W. Waller</hi> took Hagerſtone.</item>
+               <item>51. The Earl of <hi>Warwick</hi> took the Holy Iſland.</item>
+               <item>52. He took the Caſtle.</item>
+               <item>53. Tamworth Caſtle taken.</item>
+               <item>54. Hagerſton caſtle taken.</item>
+               <item>55. Lynne taken by the Earl of <hi>Mancheſter.</hi>
+               </item>
+               <item>56. <hi>Col. Maſſey</hi> kept Gloceſter againſt the King in ſiege, and defended it.</item>
+               <item>57. Gloceſter relieved by his Excellency.</item>
+               <item>58. In Iuly His Excellency took Cirenceſter.</item>
+               <item>59. His Excellency beat His Majeſties whole army at Newbery fight, killed five Lords, kil<g ref="char:EOLhyphen"/>led and took nigh 500. Officers and Soldiers.</item>
+               <item>60. Stafford caſtle taken by ſir <hi>VV. Brereton.</hi>
+               </item>
+               <item>61. Gainsbrough taken by Col: <hi>Cromwel.</hi>
+               </item>
+               <item>62. Stamford taken by Col: <hi>Cromwel.</hi>
+               </item>
+               <item>63. The Kentiſh riſing ſubdued by Col: <hi>Brown.</hi>
+               </item>
+               <item>64. Hawton Caſtle taken.</item>
+               <item>65. In Auguſt the Earl of <hi>Mancheſter</hi> Routed firſt a party of the Earl of <hi>Newcaſtles</hi> forces.</item>
+               <item>66. Then he Routed the Earl of <hi>Newcaſtles</hi> whole Army neer Horn Caſtle, took 55. Colours, 200. Horſe, and 1500. Priſoners.</item>
+               <item>67. In September the Earl of <hi>Mancheſter</hi> took Horn Caſtle.</item>
+               <item>68. Alſo he took the City of Lincoln.</item>
+               <item>69. Eccleſhal caſtle taken by ſir <hi>VV. Brereton.</hi>
+               </item>
+               <item>70. Sir <hi>VV. Breretons</hi> Forces cauſed L. <hi>Capels</hi> Forces at Lappington to retreat.</item>
+               <item>71. Lord <hi>Capels</hi> Forces beaten at Leighbridge, and forced into Shrewsbury.</item>
+               <item>72. Holt bridge taken.</item>
+               <item>73. Nov. <hi>Col. Birch</hi> routed the enemies forces.</item>
+               <item>74. Wrexam in Wales taken by ſir <hi>VV. Brereton.</hi>
+               </item>
+               <item>75. The enemy beaten by ſir <hi>VV. Brereton.</hi>
+               </item>
+               <item>76. The Dorſetſhire men took Wareham.</item>
+               <item>77. In Decemb. Sir <hi>Tho: Middleton</hi> took Flint.</item>
+               <item>78. Moſton taken.</item>
+               <item>79. Col: <hi>Maſſey</hi> took Wootton.</item>
+               <item>80. The Plymouth Forces routed the L. <hi>Digby.</hi>
+               </item>
+               <item>81. Sir <hi>William Waller</hi> Routed the Lord <hi>Craf<g ref="char:EOLhyphen"/>ford</hi> neer Aulton.</item>
+               <item>82. Aulton taken by Sir <hi>William Waller.</hi>
+               </item>
+               <item>83. Col: <hi>Skippon</hi> took Grafton houſe.</item>
+               <item>84. Holt houſe taken.</item>
+               <item>85. Bewly Houſe alſo taken.</item>
+               <item>86. Hawarden caſtle taken by ſir <hi>W. Brereton.</hi>
+               </item>
+               <item>87. In Ianuary Sir <hi>William Waller</hi> took A<g ref="char:EOLhyphen"/>rundel Caſtle, and 200. Priſoners.</item>
+               <item>88. Col: <hi>Mytton</hi> Routed Sir <hi>John Byron</hi> neer Elſmore.</item>
+               <item>89. Sir <hi>John Gell</hi> took Burton upon Trent.</item>
+               <item>90. Hilſon taken.</item>
+               <item>91. Laicock Houſe taken.</item>
+               <item>92. The Earl of <hi>Mancheſter</hi> took Croyland.</item>
+               <item>93. Burleigh Houſe taken.</item>
+               <item>94. Cocquet Iſland taken by the Scots.</item>
+               <item>95. Guſſanna taken by ſir <hi>W. Brereton.</hi>
+               </item>
+               <item>96. In Febr. Sir <hi>W. Brereton</hi> took a fortified houſe in Wales by ſtorm.</item>
+               <item>97. Sir <hi>W. Brereton</hi> routed the L. <hi>Capels</hi> forces, and brought 3000. of the enemy to nothing.</item>
+               <item>98. The Iſle of Axolm taken by ſir <hi>J. Meldrum.</hi>
+               </item>
+               <item>99. Burlington taken.</item>
+               <item>100. Whitby alſo taken.</item>
+               <item>101. Milus Houſe taken by the Lord <hi>Fairfax.</hi>
+               </item>
+               <item>102. Alnwick take<g ref="char:cmbAbbrStroke">̄</g> by our Brethren of <hi>Scotland.</hi>
+               </item>
+               <item>103. Morpheth by the Scots alſo taken.</item>
+               <item>104. Milford Haven taken by Captain <hi>Swanley.</hi>
+               </item>
+               <item>105. Biddle Houſe taken by Sir <hi>Thomas Fair<g ref="char:EOLhyphen"/>fax,</hi> where was taken the Lord <hi>Brereton,</hi> 20. Officers of Note, and 300. Priſoners.</item>
+               <item>106. Hilſly Houſe taken.</item>
+               <item>107. Newbery taken by Sir <hi>VVilliam Balfore.</hi>
+               </item>
+               <item>108. In March was taken Tadcaſter.</item>
+               <item>109. Bredport taken.</item>
+               <item>110. The Pembrokeſhire men, with Captain <hi>Swanleys</hi> ſeamen, took Haverford weſt.</item>
+               <item>111. Tinby Caſtle taken, with 7. piece of Ordnance, and 400. Priſoners and Arms.</item>
+               <item>112. Carew Caſtle taken.</item>
+               <item>143. The Earl of Carbery Routed.</item>
+               <item>114. Sunderland taken by the Scots.</item>
+               <item>115. Sir <hi>VVilliam Waller</hi> Routed <hi>Hopton</hi> at Cheriton neer Alsford, one Lord, and 100. more ſlain, 100. Officers, and 500. Souldi<g ref="char:EOLhyphen"/>ers taken Priſoners.</item>
+               <item>116. Whitchurch taken by Dorſetſhire men.</item>
+               <item>117. In April 1644. the Lord <hi>Fairfax</hi> took Cawood Caſtle.</item>
+               <item>118. Axolm taken.</item>
+               <item>119. Crowland taken.</item>
+               <item>120. Whitchurch in Dorſetſhire taken.</item>
+               <item>121. Waltham taken by Col: <hi>Brown.</hi>
+               </item>
+               <item>122. Withinſhaw taken in Cheſhire.</item>
+               <item>123. Adlington taken in Cheſhire by Col: <hi>Duc<g ref="char:EOLhyphen"/>kenfield</hi> and Major <hi>Morgans</hi> men.</item>
+               <item>124. Dedington houſe taken in Cheſhire.</item>
+               <item>125. Crow houſe taken.</item>
+               <item>126. The Earl of <hi>Newcaſtle</hi> Routed at Selby.</item>
+               <item>127. Dureſm taken by the Scots.</item>
+               <item>128. Lumley taken by the Scots.</item>
+               <item>129. In May the E. of <hi>Mancheſter</hi> took Lincoln</item>
+               <item>130. Lincoln Caſtle taken, 7. piece of Ord<g ref="char:EOLhyphen"/>nance, 200. Knights, Colonels, and other Officers of note, 300. Arms, &amp; 800. Priſoners.</item>
+               <item>131. The Pembroke men took Carnarvan.</item>
+               <item>132. Carnarvan Caſtle taken.</item>
+               <item>133. Col: <hi>Maſſey</hi> Routed Sir <hi>John VVinter</hi> at Newnham, took 9. pieces of Ordnance, 200. Officers, and 500. Priſoners.</item>
+               <item>134. Brereton Caſtle taken.</item>
+               <item>135. Malmsbury taken, with 7. pieces of Ord<g ref="char:EOLhyphen"/>nance, and 300. Priſoners.</item>
+               <item>136. The Scots took Lumley Caſtle.</item>
+               <item>137. Bewdly in Worceſterſhire likewiſe taken.</item>
+               <item>138. Yarmouth taken by Sir. <hi>John Meldrum.</hi>
+               </item>
+               <item>139. Abingdon taken by the Lord <hi>Roberts.</hi>
+               </item>
+               <item>140. Ruſſel Hall taken by the Stafford Forces.</item>
+               <item>141. In Iune Col: <hi>Maſſey</hi> took Chippingham.</item>
+               <item>142. Tewksbury taken by Col: <hi>Maſſey.</hi>
+               </item>
+               <item>143. Sir <hi>William VValler</hi> took Shudly Caſtle, two pieces of Ordnance, 70. Officers and Gentlemen, 40. Horſe. 250. Priſoners.</item>
+               <item>144. Compton Houſe taken by the Warwick<g ref="char:EOLunhyphen"/>ſhire men, 30. Officers and Gentlemen, 60. Horſe, and 140. Priſoners.</item>
+               <item>145. Weymouth taken by Sir <hi>VVilliam Balfore,</hi> 27. pieces of Ordnance, and 400. Arms.</item>
+               <item>146. Taunton Dean taken by him likewiſe.</item>
+               <item>147. Oſweſtree taken by the Earl of <hi>Denbigh.</hi>
+               </item>
+               <item>148. Cholmly Houſe taken by him likewiſe.</item>
+               <item>149. His Excellency took Barnſtable.</item>
+               <item>150. And Taunton likewiſe.</item>
+               <item>151. The great Battel at Marſton-Moor was fought, where all the three Generals Armies were engaged on both ſides, we killed 4000. and took 1500. Priſoners, and the Earl of <hi>Newcaſtle</hi> and P. <hi>Rupert</hi> both utterly defeated</item>
+               <item>152. Greenland Houſe taken by Col: <hi>Brown.</hi>
+               </item>
+               <item>153. Wilney Ferry taken by Sir <hi>John Gell.</hi>
+               </item>
+               <item>154. York ſurrendred to the three Generals.</item>
+               <item>155. Tickel ſurrendred to the E. of <hi>Mancheſter.</hi>
+               </item>
+               <item>156. Mount Stamfort neer Plymouth taken by His Excellency.</item>
+               <item>157. Plimpton taken with 8. piece of Ordnance</item>
+               <item>158. Saltaſh taken by His Excellency.</item>
+               <item>159. Launceſton taken by him likewiſe.</item>
+               <item>160. Greenhil Houſe taken.</item>
+               <item>161. Morpheth caſtle taken by ſir <hi>W. Brereton.</hi>
+               </item>
+               <item>162. In Iuly the Lord <hi>Roberts</hi> Routed <hi>Green<g ref="char:EOLhyphen"/>vile</hi> neer Liſtithiel in Cornwal, took 100. Officers and Gentlemen, and killed and took 300 more.</item>
+               <item>163. His Excellency took Tadcaſter.</item>
+               <item>164. And likewiſe Foy.</item>
+               <item>165. Newbridge taken by His Excellency.</item>
+               <item>166. Sir <hi>W. Brereton</hi> Defeated <hi>Newcaſtles</hi> Army going to joyn with the L. <hi>Capels</hi> and <hi>Byron</hi> about Cheſter and Wales.</item>
+               <item>167. Sir <hi>Tho: Middleton</hi> ſurpriſed the enemy at Welchpool, and took 100 horſe and priſoners.</item>
+               <item>168. Sir <hi>Marmaduke Langdale</hi> Defeated at Mel<g ref="char:EOLhyphen"/>peſs by ſir <hi>W. Breretons</hi> Forces, and divers priſoners of note taken.</item>
+               <item>169. Sir <hi>W. Breretons</hi> Forces beat the enemy at Tarvin in Cheſhire.</item>
+               <item>170. Sir <hi>W. Brereton</hi> beat Col: <hi>Marrows</hi> Forces in Cheſhire.</item>
+               <item>171. Sir <hi>W. Brereton</hi> beat the enemy out of Worral Iſland.</item>
+               <item>172. Aug. Shelford taken by the E. <hi>Mancheſter.</hi>
+               </item>
+               <item>173. Likewiſe by him Welbeck Houſe.</item>
+               <item>174. Wareham taken by His Excellency.</item>
+               <item>175. Gateſhead at Newcaſtle taken by the Scots</item>
+               <item>176. Winkfield Mannor by Sir <hi>Jobn Gell.</hi>
+               </item>
+               <item>177. Redcaſtle by Sir <hi>Thomas Middleton.</hi>
+               </item>
+               <item>178. In September Col: <hi>Maſſey</hi> Routed Prince. <hi>Rupert,</hi> took 12. pieces of Ordnance, 100. Horſe, and 200. Foot.</item>
+               <item>179. In October the Scots took Newcaſtle by ſtorm, and in it 20. Lords and Knights, 50. Officers of note, 2000. Priſoners, 48. pieces of Ordnance, and 3000. Arms.</item>
+               <item>180. The Earl of <hi>Mancheſter</hi> and Sir <hi>William VValler</hi> Routed the Kings Army neer New<g ref="char:EOLhyphen"/>bery, and took nine pieces of Ordnance, 300. Priſoners, and 500. Arms.</item>
+               <item>181. Tinmouth Caſtle ſurrendred to the Scots.</item>
+               <item>182. Leverpool taken by ſir <hi>W. Brereton.</hi>
+               </item>
+               <item>183. Col: <hi>Egerton</hi> Defeated at Farm in Che<g ref="char:EOLhyphen"/>ſhire by ſir <hi>W. Brereton.</hi>
+               </item>
+               <item>184. Holton caſtle taken by Col: <hi>Crook.</hi>
+               </item>
+               <item>185. Helmſley taken by the Lord <hi>Fairfax.</hi>
+               </item>
+               <item>186. The Enemy driven from Newbery.</item>
+               <item>187. And from Farringdon.</item>
+               <item>188. And Malborough by the Earl of <hi>Man<g ref="char:EOLhyphen"/>cheſter</hi> and Sir <hi>William VValler.</hi>
+               </item>
+               <item>189. The enemy beaten by Captain <hi>Stone</hi> neer Ecleſhal.</item>
+               <item>190. Decem the Pembroke men took Laughorn.</item>
+               <item>191. The Scots Carliſle.</item>
+               <item>192. The Lincolnſhire men took Croyland.</item>
+               <item>193. Col: <hi>Maſſey</hi> took Monmouth.</item>
+               <item>194. The Lord <hi>Fairfax</hi> took Knaisbrough.</item>
+               <item>195. In Ian. Ruſſel Houſe taken by E. <hi>Denby.</hi>
+               </item>
+               <item>196. Bellaſith Garriſon neer Abingdon taken by Col. <hi>Brown.</hi>
+               </item>
+               <item>197. The enemy beaten at Chriſtleton neer Cheſter by ſir <hi>VV. Breretons</hi> Forces.</item>
+               <item>198. The enemy routed at Eaton in Cheſhire.</item>
+               <item>199. Sir <hi>VV. Breretons</hi> Forces beat Prince <hi>Ru<g ref="char:EOLhyphen"/>perts</hi> and <hi>Maurices</hi> Forces, going into the North to joyn with the Northern Forces.</item>
+               <item>200. In February Col: <hi>Laughorn</hi> Routed the Enemy in Pembrokeſhire, took four pieces of Ordnance, 400. Arms, and 300. Priſoners</item>
+               <item>201. Sir <hi>John Meldrum</hi> took Scarbrough town, 30. pieces of Ordnance, and 100. Ships.</item>
+               <item>202. Col: <hi>Mytton</hi> took Shrewsbury, and in it 100. Knights and Eſquires, and Officers in Commiſſion, 36. pieces of Ordnance, 3000. Arms, and 2000. Priſoners.</item>
+               <item>203. In the latter end of March, 1645. the Lord <hi>Fairfax</hi> and the Scots took the Caſtle of Scarborough.</item>
+               <item>204. Weymouth retaken by Col: <hi>Sydnham.</hi>
+               </item>
+               <item>205. Blechingdon Houſe taken.</item>
+               <item>206. Col: <hi>Maſſey</hi> took Eveſhaim, 30. Officers and Gentlemen, 150. Horſe, and 400. Pri<g ref="char:EOLhyphen"/>ſoners and Arms.</item>
+            </list>
+            <list>
+               <head>By His EXCELLENCY. Sir <hi>Thomas Fairfax,</hi> Captain General of the PARLI<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ENTS Forces.</head>
+               <item>207. IN April, 1645. Major General <hi>Mid<g ref="char:EOLhyphen"/>dleton</hi> gave ſeveral Defeats to the E<g ref="char:EOLhyphen"/>nemy in the Weſt.</item>
+               <item>208. Col: <hi>Maſſey</hi> took in Sir <hi>John Winters</hi> Houſe, and ſome other Garriſons on the borders of Gloceſterſhire.</item>
+               <item>209. In May His Excellency Sir <hi>Tho: Fairfax</hi> blockt up Oxford, and Boſtol Houſe.</item>
+               <item>210. Sir <hi>Tho: Fairfax</hi> took Newbridge neer Oxford:</item>
+               <item>211. Sir <hi>Tho: Fairfax</hi> took Gaunt houſe.</item>
+               <item>212. In Iune His Excellency Routed the Kings Army at Nazeby Battel, took all His Foot, Ordnance, Arms, Bag and Baggage, and the Cabinet of Letters, &amp; great treaſure.</item>
+               <item>213. Leiceſter retaken, and in it 200. Horſe, and 400. Priſoners.</item>
+               <item>214. Highworth alſo taken.</item>
+               <item>215. In Iuly His Excellency relieved Taun<g ref="char:EOLhyphen"/>ton, took Ilcheſter, Routed <hi>Goring</hi> neer Lamport, took ten Colonels and Majors, 2000. Priſoners and Arms, four pieces of Ordnance, 56. Colours, 1500. Horſe.</item>
+               <item>216. Took Langport.</item>
+               <item>217. Alſo Burrough.</item>
+               <item>218. Bridgewater.</item>
+               <item>219. Bath, with ſix pieces of Ordnance.</item>
+               <item>220. And Pontefract Caſtle taken by the Lord <hi>Fairfax</hi> and the Scots.</item>
+               <item>201. Carliſle ſurrendred for the uſe of the King and Parliament by ſir <hi>Tho: Glemham.</hi>
+               </item>
+               <item>122. In Auguſt the Clubmen in Somerſet<g ref="char:EOLhyphen"/>ſhire were ſuppreſſed by Lieut: Col: <hi>Crom<g ref="char:EOLhyphen"/>wel,</hi> 300. of the chief taken, and 1500. Arms.</item>
+               <item>123. His Excellency took Sherburn.</item>
+               <item>124. The Lord <hi>Fairfax</hi> and the Scots took Scarborough Caſtle.</item>
+               <item>125. Raby Caſtle taken by the Lord <hi>Fairfax</hi> and the Scots.</item>
+               <item>226. The Shropſhire Forces with the Coun<g ref="char:EOLhyphen"/>trey, took Dawly Caſtle.</item>
+               <item>227. Caos Caſtle taken.</item>
+               <item>228. Stoakey houſe.</item>
+               <item>229. Morton corbet houſe taken.</item>
+               <item>230. In September His Excellency took Nu<g ref="char:EOLhyphen"/>ney Caſtle in Somerſetſhire.</item>
+               <item>231. Porſhut point.</item>
+               <item>232. Briſtol Surrendred.</item>
+               <item>233. The Deviſes.</item>
+               <item>234. Farleigh Garriſon.</item>
+               <item>235. Laicock Houſe.</item>
+               <item>236. Berkley Caſtle.</item>
+               <item>237. Chedwick Caſtle. And,</item>
+               <item>238. Cardiff Caſtle by a party ſent thither from His Excellency, who took 16. pieces of Ordnance, and 4000. Arms.</item>
+               <item>239. Canon-Froom Houſe taken by the Scots, all the Priſoners at mercy.</item>
+               <item>240. The Shropſhire forces took Routon caſtle.</item>
+               <item>241. Linſel Mannor.</item>
+               <item>242. Apley Houſe.</item>
+               <item>243. The Siege of Pembroke raiſed by the help of the Seamen.</item>
+               <item>244. Major General <hi>Poyntz</hi> Routed the Kings Army at Routon Heath, going to Relieve Cheſter, killed the Earl of <hi>Lichfield,</hi> and divers more, took 10. Knights, and 50. Offi<g ref="char:EOLhyphen"/>cers, 40. Gentlemen of note, 1500. Pri<g ref="char:EOLhyphen"/>ſoners, and 2000. Horſe.</item>
+               <item>245. In October the Countrey Forces defeat<g ref="char:EOLhyphen"/>ed the Welch neer Hereford, killed 150 took 700. Priſoners, four piece of Ordnance, 800. Arms, all their Carriages, Bag and Baggage.</item>
+               <item>246. Haverford weſt taken.</item>
+               <item>247. Carmarthen taken by Col: <hi>Laughorn,</hi> two pieces of Ordnance, and 100. Arms.</item>
+               <item>248. Col: <hi>Laughorn,</hi> with the aſſiſtance of others, took Carew Caſtle.</item>
+               <item>249. Picton Caſtle taken.</item>
+               <item>250. Retook Cardiff Caſtle.</item>
+               <item>251. And Defeated the Enemy.</item>
+               <item>252. The Lord <hi>Fairfax</hi> took Sandal Caſtle.</item>
+               <item>253. His Excellency took Wincheſter.</item>
+               <item>254. Chipſtow Caſtle.</item>
+               <item>255. Langford Houſe.</item>
+               <item>256. Tiverton taken by Sir <hi>Tho: Fairfax.</hi>
+               </item>
+               <item>257. Hoult-church taken.</item>
+               <item>258. Bazing Houſe taken by Lieut: General <hi>Cromwel,</hi> and Col: <hi>Dalbier</hi> by ſtorm.</item>
+               <item>259. Lord <hi>Digby</hi> Routed going for <hi>Scotland,</hi> all his Forces killed and taken.</item>
+               <item>260. Boulton caſtle taken by Maj. Gen. <hi>Poyntz.</hi>
+               </item>
+               <item>261. Shelford Houſe taken.</item>
+               <item>262. Monmouth taken.</item>
+               <item>263. Sir <hi>W. Brereton</hi> Routed the Kings Forces at Derby, took 400. priſoners, 600. horſe.</item>
+               <item>264. In November Beeſton caſtle by ſir <hi>VVilliam Brereton</hi> was taken.</item>
+               <item>265. The Fort of Latham taken by the Lan<g ref="char:EOLhyphen"/>caſhire Forces.</item>
+               <item>266. The remainder of <hi>Digbies</hi> Forces routed again.</item>
+               <item>267. In December the City of Hereford taken by Col: <hi>Morgan.</hi>
+               </item>
+               <item>268. Embleden caſtle taken by Major Gene<g ref="char:EOLhyphen"/>ral <hi>Laughorn.</hi>
+               </item>
+               <item>269. Skippon Caſtle by Col: <hi>Laſſels.</hi>
+               </item>
+               <item>270. His Excellency took neer Exeter Chilli<g ref="char:EOLhyphen"/>ton Houſe.</item>
+               <item>271. Wharton houſe taken.</item>
+               <item>272. Likewiſe he <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ook Pouldrim Houſe.</item>
+               <item>273. Sir <hi>J. Gell</hi> took ſome priſoners at Titbury.</item>
+               <item>274. His Excellency took Fulford houſe.</item>
+               <item>275. Ian. Plymouth relieved by his excellency.</item>
+               <item>276. Canterbury taken by his Excellency.</item>
+               <item>277. Cheſter taken by ſir <hi>W. Brereton,</hi> with all the Arms and Ammunition.</item>
+               <item>278. Bewdeux Church taken, it and in 100. Priſoners, 60. Horſe, 150. Arms.</item>
+               <item>279. His Excellency took Sir <hi>Francis Drakes</hi> Houſe, and 100. Priſoners.</item>
+               <item>280. Likewiſe His Excellency took Dart<g ref="char:EOLhyphen"/>mouth Town and Caſtle, one Lord, 10. field Officers, 15. Captains, 22. Lieutenants, 12. Enſigns, 100 Priſoners, 120. Guns.</item>
+               <item>281. Belvoir Caſtle taken by Col: <hi>Roſſiter.</hi>
+               </item>
+               <item>282. His Excellency took Torrington, and Routed the Princes Army, took 200. Horſe, and 400. Priſoners.</item>
+               <item>283. The Ragland Forces Routed by Col: <hi>Laugborn,</hi> 200. ſlain, 800. taken Priſoners.</item>
+               <item>284. In February Corff caſtle taken by the Dorſetſhire Forces.</item>
+               <item>285. The Oxford Forces beaten out of A<g ref="char:EOLhyphen"/>bingdon.</item>
+               <item>286. Major General <hi>VVeb</hi> Routed.</item>
+               <item>287. In March Aſhby-de-la-Zouch by the Governor of Leiceſter taken.</item>
+               <item>288. Cherk caſtle by Sir <hi>Tho: Middleton.</hi>
+               </item>
+               <item>289. His Excellency took Launceſton.</item>
+               <item>290. Bodman taken by His Excellency.</item>
+               <item>291. Likewiſe Liſtithiel.</item>
+               <item>292. And Saltaſh.</item>
+               <item>293. Warbridge taken.</item>
+               <item>294. Temple Guard taken.</item>
+               <item>295. Sir <hi>Ralph Hopton</hi> forced by his Excellency to Disband 5000. horſe.</item>
+               <item>296. Lichfield taken by ſir <hi>W. Brereton.</hi>
+               </item>
+               <item>297. Sir <hi>W. Brereton</hi> Routed the Lord <hi>Aſtley,</hi> and took him priſoner, &amp; divers commanders.</item>
+               <item>298. Dennis caſtle taken by His Excellency.</item>
+               <item>299. Felford Haven, and a Dunkirk ſhip taken with 26. pieces of Ordnance.</item>
+               <item>300. Axmouth taken.</item>
+               <item>301. Inch Houſe taken, and in it 40. Guns, and 90. Muskets.</item>
+               <item>302. Hilford Forth, and 26. Guns.</item>
+               <item>303. Hiarchal taken by the Shropſhire forces.</item>
+               <item>304. Pouldrum forts taken by ſir <hi>Hardres Waller</hi>
+               </item>
+               <item>305. And Dennington Caſtle by Col: <hi>Dalbier.</hi>
+               </item>
+               <item>306. In April, 1646, the Shropſhire Forces entred Bridgenorth Town.</item>
+               <item>307. The caſtle and Iſle of Portland, taken by the Dorſetſhire men.</item>
+               <item>308. Major <hi>Blunden</hi> Defeated the Kings houſe neer Farringdon, took 300. Arms, 250. Horſe, 150. Priſoners.</item>
+               <item>309. Exeter ſurrendred to His Excellency.</item>
+               <item>310. Barnſtable ſurrendred to His Excellency.</item>
+               <item>311. Ilford Town taken.</item>
+               <item>312. Ruthen taken by Major General <hi>Mytton.</hi>
+               </item>
+               <item>313. Aberiſtwith by Major General <hi>Laughorn.</hi>
+               </item>
+               <item>314. Dunſter Caſtle by Col: <hi>Blake.</hi>
+               </item>
+               <item>315. Titbury taken by Sir <hi>VVilliam Brereton.</hi>
+               </item>
+               <item>316. Woodſtock taken by Col: <hi>VVhaley</hi> and Col: <hi>Ireton.</hi>
+               </item>
+               <item>317. In May the King went to the Scots: Banbury caſtle taken by Col: <hi>VVhaley,</hi> and in it 500. Arms, 10. pieces of Ordnance, and 9. Colours.</item>
+               <item>318. Penrin in Wales taken by M. Gen. <hi>Mytton.</hi>
+               </item>
+               <item>319. Sir <hi>Iacob Aſhley</hi> routed, and 1500. horſe taken.</item>
+               <item>320. Newark ſurrendred to Major General <hi>Poyniz,</hi> with twelve great Guns, and two Morter pieces, many Drakes, 4000. Arms, and 40. Barrels of Powder.</item>
+               <item>321. The Duke of <hi>Richmond,</hi> the Earl of <hi>Lind<g ref="char:EOLhyphen"/>ſey,</hi> &amp; divers others taken by His Excellency.</item>
+               <item>322. Hartlebury caſtle neer Worceſter taken by Col: <hi>Morgan,</hi> ſix pieces of Ordnance, and 15. Barrels of Powder.</item>
+               <item>323. Charls Fort neer Plymouth taken by Col: <hi>VVelden.</hi>
+               </item>
+               <item>324. His Excellency took Boſtol houſe.</item>
+               <item>325. Major Gen. <hi>Mytton</hi> took Carnarvan.</item>
+               <item>326. He took alſo the Iſle of Angleſey.</item>
+               <item>327. The caſtle of Bewmoris ſurrendred to him.</item>
+               <item>328. Michaels Mount in Cornwal ſurrendred to his Excellency.</item>
+               <item>329. The Shropſhire forces took the caſtle of Bridgenorth.</item>
+               <item>330. His Excellency took Radcote houſe.</item>
+               <item>331. His Excellency took Sherborn houſe neer Oxford.</item>
+               <item>332. His Excellency took Oxford, with above 40. pieces of Ordnance, many Arms, three Powder Mills, and ſtore of Ammunition and proviſions.</item>
+               <item>333. Sir <hi>Robert Pyes</hi> houſe at Farringdon taken.</item>
+               <item>334. Worceſter taken by his Excellency.</item>
+               <item>335. Lichfield-cloſe taken by Adjutant Gen. <hi>Louthian,</hi> and ſir <hi>W. Breretons</hi> Forces.</item>
+               <item>336. Wallingford caſtle taken by his excellency</item>
+               <item>337. Gothridge caſtle taken by Col: <hi>Birch.</hi>
+               </item>
+               <item>338. Rothland caſtle taken by Maj. Gen. <hi>Mytton.</hi>
+               </item>
+               <item>339. Raglan caſtle ſurrendred.</item>
+               <item>340. Pendennis caſtle ſurrendred.</item>
+               <item>341. The Iſle of Ceely ſurrendred.</item>
+               <item>342. Denbigh caſtle ſurrendred.</item>
+               <item>343. Flint caſtle taken.</item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="order">
+            <p>Publiſhed according to Order.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>Printed for WILLIAM LEV.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
